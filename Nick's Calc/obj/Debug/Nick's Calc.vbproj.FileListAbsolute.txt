@@ -10,3 +10,15 @@ C:\Users\Student\source\repos\Nick's Calc\Nick's Calc\obj\Debug\Nick's Calc.vbpr
 C:\Users\Student\source\repos\Nick's Calc\Nick's Calc\obj\Debug\Nick's Calc.exe
 C:\Users\Student\source\repos\Nick's Calc\Nick's Calc\obj\Debug\Nick's Calc.xml
 C:\Users\Student\source\repos\Nick's Calc\Nick's Calc\obj\Debug\Nick's Calc.pdb
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\bin\Debug\Nick's Calc.exe.config
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\bin\Debug\Nick's Calc.exe
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\bin\Debug\Nick's Calc.pdb
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\bin\Debug\Nick's Calc.xml
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick's Calc.vbprojAssemblyReference.cache
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick_s_Calc.Form1.resources
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick_s_Calc.Resources.resources
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick's Calc.vbproj.GenerateResource.cache
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick's Calc.vbproj.CoreCompileInputs.cache
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick's Calc.exe
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick's Calc.xml
+C:\Users\nmawu\Source\Repos\calculator\Nick's Calc\obj\Debug\Nick's Calc.pdb

@@ -295,7 +295,7 @@ Partial Class Form1
         Me.lblAnswer.ForeColor = System.Drawing.Color.DarkRed
         Me.lblAnswer.Location = New System.Drawing.Point(3, 0)
         Me.lblAnswer.Name = "lblAnswer"
-        Me.lblAnswer.Size = New System.Drawing.Size(0, 25)
+        Me.lblAnswer.Size = New System.Drawing.Size(0, 29)
         Me.lblAnswer.TabIndex = 6
         Me.lblAnswer.TextAlign = System.Drawing.ContentAlignment.BottomRight
         '
@@ -306,7 +306,7 @@ Partial Class Form1
         Me.lblOperation.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.lblOperation.Location = New System.Drawing.Point(9, 0)
         Me.lblOperation.Name = "lblOperation"
-        Me.lblOperation.Size = New System.Drawing.Size(0, 25)
+        Me.lblOperation.Size = New System.Drawing.Size(0, 29)
         Me.lblOperation.TabIndex = 7
         Me.lblOperation.TextAlign = System.Drawing.ContentAlignment.BottomRight
         '
